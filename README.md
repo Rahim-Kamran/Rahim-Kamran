@@ -70,15 +70,19 @@ I completed a **Cloud Backend Internship at VVDN Technologies**, where I built s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Kamran&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rahim-Kamran&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rahim-Kamran&theme=tokyonight&hide_border=false&layout=compact&count_private=true" alt="Top Languages"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rahim-Kamran&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Kamran&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rahim-Kamran&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -88,7 +92,7 @@ I completed a **Cloud Backend Internship at VVDN Technologies**, where I built s
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 
 </div>
 
