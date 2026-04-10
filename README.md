@@ -70,11 +70,15 @@ I completed a **Cloud Backend Internship at VVDN Technologies**, where I built s
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahim-Kamran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Rahim-Kamran&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Streak Stats](https://streak-stats.demolab.com?user=Rahim-Kamran&theme=tokyonight&hide_border=false)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Kamran&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rahim-Kamran&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahim-Kamran&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -84,7 +88,7 @@ I completed a **Cloud Backend Internship at VVDN Technologies**, where I built s
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
@@ -102,7 +106,9 @@ I completed a **Cloud Backend Internship at VVDN Technologies**, where I built s
 
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=Rahim-Kamran&icon=0&color=6)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=Rahim-Kamran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" />
 
