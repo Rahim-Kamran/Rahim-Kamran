@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Rahim%20Kamran&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineer%20%7C%20Cloud%20Backend%20Dev&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rahim%20Kamran&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=✦%20Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning%20✦&descAlignY=60&descSize=16&animation=fadeIn&stroke=bf91f3&strokeWidth=2" />
 </div>
 
 <div align="center">
@@ -91,37 +91,6 @@ I'm **Rahim Kamran**, an MCA student at **Lovely Professional University** passi
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🧠 ML Knowledge Map
-
-```
-Machine Learning
-├── Supervised Learning
-│   ├── Regression      → Linear, Decision Tree, Random Forest
-│   ├── Classification  → Logistic, k-NN, Naive Bayes, SVM, Random Forest
-│   └── Evaluation      → Accuracy, Precision, Recall, F1, ROC-AUC, Cross-Validation
-│
-├── Unsupervised Learning
-│   ├── Clustering      → k-Means, Hierarchical, DBSCAN
-│   └── Dimensionality  → PCA, t-SNE
-│
-├── Feature Engineering → Encoding, Scaling, Missing Values, Outlier Detection
-│
-├── Deep Learning
-│   ├── Architectures   → MLP, CNN, RNN, LSTM, GRU
-│   └── Attention       → Transformers (Intro)
-│
-├── Generative AI
-│   ├── Models          → GANs, VAE, Autoencoders, Diffusion Models
-│   └── LLMs            → Prompting, Fine-tuning (learning)
-│
-└── MLOps & Deployment
-    ├── Explainability  → SHAP, LIME, Grad-CAM
-    ├── APIs            → Flask, FastAPI
-    └── Tracking        → MLflow
-```
 
 ---
 
