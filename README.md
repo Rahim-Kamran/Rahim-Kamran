@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-I'm **Rahim Kamran**, an MCA student at **Lovely Professional University** passionate about **Data Science, Machine Learning, and Cloud Backend Development**.
+I'm **Rahim Kamran**, an MCA student at **Lovely Professional University** passionate about **Data Science, Machine Learning, and Artificial Intelligence  **.
 
 - 🔭 Currently building end-to-end **ML pipelines** and exploring **Generative AI**
 - 🏢 Ex **Cloud Backend Intern @ VVDN Technologies** — built secure RESTful APIs & cloud recording systems for CP PLUS surveillance platform
@@ -39,7 +39,6 @@ I'm **Rahim Kamran**, an MCA student at **Lovely Professional University** passi
 | Area | Focus |
 |------|-------|
 | 🤖 **Generative AI** | LLMs, GANs, Diffusion Models, Prompting |
-| ☁️ **Cloud** | AWS / GCP services, Cloud-native deployment |
 | 📊 **ML Ops** | MLflow, Model deployment with Flask & FastAPI |
 | 🧠 **Deep Learning** | CNN, RNN, LSTM, Transformers & Attention |
 | 🎯 **Goal** | Land a **Data Scientist / ML Engineer** role |
@@ -81,13 +80,6 @@ I'm **Rahim Kamran**, an MCA student at **Lovely Professional University** passi
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
