@@ -13,6 +13,7 @@
 
 I'm **Rahim Kamran**, an MCA student at **Lovely Professional University** passionate about **Data Science, Machine Learning, and Artificial Intelligence  **.
 
+- 💼 Currently working as **Research Analyst @ Edureka**
 - 🔭 Currently building end-to-end **ML pipelines** and exploring **Generative AI**
 - 🏢 Ex **Cloud Backend Intern @ VVDN Technologies** — built secure RESTful APIs & cloud recording systems for CP PLUS surveillance platform
 - 🎓 Certified in **Oracle Data Science**, **Machine Learning**, and **AWS Cloud**
