@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Rahim%20Kamran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20ML%2FDL%2FNLP%2FGenAI&descAlignY=58&descAlign=50" width="100%"/>
+# ✨ Rahim Kamran
+
+### Data Science & AI Student &nbsp;|&nbsp; ML · DL · NLP · GenAI &nbsp;|&nbsp; Research Analyst @ Edureka
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&section=header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+%40+LPU;Research+Analyst+%40+Edureka;Machine+Learning+%2B+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+%40+LPU;Research+Analyst+%40+Edureka;Machine+Learning+%2B+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -332,7 +336,7 @@ Contributed to a surveillance application backend, focused on live video streami
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" />
 
 </div>
 
