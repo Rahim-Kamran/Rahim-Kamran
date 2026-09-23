@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Rahim+Kamran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data+Science+%26+AI+Student+%7C+ML+%2F+DL+%2F+NLP+%2F+GenAI+%7C+Research+Analyst&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Rahim%20Kamran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20ML%2FDL%2FNLP%2FGenAI&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+%40+LPU;Research+Analyst+%40+Edureka;Machine+Learning+%2B+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs" alt="Typing SVG" />
@@ -37,7 +37,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-01-6D28D9?style=flat-square" height="22"/> About Me
 
@@ -67,7 +68,8 @@ I'm a Data Science & AI graduate student focused on building applied machine lea
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-02-6D28D9?style=flat-square" height="22"/> Tech Stack
 
@@ -98,7 +100,8 @@ I'm a Data Science & AI graduate student focused on building applied machine lea
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,streamlit&theme=dark" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-03-6D28D9?style=flat-square" height="22"/> AI / ML Expertise
 
@@ -120,7 +123,8 @@ I'm a Data Science & AI graduate student focused on building applied machine lea
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-04-6D28D9?style=flat-square" height="22"/> Featured Projects
 
@@ -219,7 +223,8 @@ Using data from the Central Ground Water Board (CGWB), this semester-long projec
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-05-6D28D9?style=flat-square" height="22"/> Experience
 
@@ -247,7 +252,8 @@ Contributed to a surveillance application backend, focused on live video streami
 
 `REST APIs` `Cloud Backend` `Live Streaming`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-06-6D28D9?style=flat-square" height="22"/> Achievements
 
@@ -262,7 +268,8 @@ Contributed to a surveillance application backend, focused on live video streami
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-07-6D28D9?style=flat-square" height="22"/> Certifications
 
@@ -286,7 +293,8 @@ Contributed to a surveillance application backend, focused on live video streami
 
 ![NIIT](https://img.shields.io/badge/iamNEO%20%2F%20NIIT-Java%20Programming-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-08-6D28D9?style=flat-square" height="22"/> Coding Profiles
 
@@ -301,7 +309,8 @@ Contributed to a surveillance application backend, focused on live video streami
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-09-6D28D9?style=flat-square" height="22"/> GitHub Analytics
 
@@ -316,7 +325,8 @@ Contributed to a surveillance application backend, focused on live video streami
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-10-6D28D9?style=flat-square" height="22"/> GitHub Trophies
 
@@ -326,17 +336,19 @@ Contributed to a surveillance application backend, focused on live video streami
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-11-6D28D9?style=flat-square" height="22"/> Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Kamran&theme=redical&bg_color=0D0221&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahim-Kamran&theme=radical&bg_color=0D0221&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-12-6D28D9?style=flat-square" height="22"/> Contribution Snake
 
@@ -346,7 +358,8 @@ Contributed to a surveillance application backend, focused on live video streami
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-13-6D28D9?style=flat-square" height="22"/> Current Focus
 
@@ -370,7 +383,8 @@ open_to:
   - Freelance & contract projects
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 ## <img src="https://img.shields.io/badge/-14-6D28D9?style=flat-square" height="22"/> Connect With Me
 
@@ -383,7 +397,8 @@ open_to:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
+
+---
 
 <div align="center">
 
@@ -392,4 +407,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 </div>
-
