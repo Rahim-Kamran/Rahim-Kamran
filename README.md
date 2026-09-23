@@ -1,10 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rahim%20Kamran&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=✦%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20✦&descAlignY=60&descSize=16&animation=fadeIn&stroke=bf91f3&strokeWidth=2" />
+</div>
 
-# ✨ Rahim Kamran
-
-### Data Science & AI Student &nbsp;|&nbsp; ML · DL · NLP · GenAI &nbsp;|&nbsp; Research Analyst @ Edureka
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&section=header" width="100%"/>
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+%40+LPU;Research+Analyst+%40+Edureka;Machine+Learning+%2B+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs" alt="Typing SVG" />
@@ -336,7 +334,7 @@ Contributed to a surveillance application backend, focused on live video streami
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahim-Kamran&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
 
 </div>
 
@@ -408,6 +406,6 @@ open_to:
 
 *"Ship systems that work in production, not just in notebooks."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" width="100%"/>
 
 </div>
