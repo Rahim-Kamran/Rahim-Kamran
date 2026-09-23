@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Rahim%20Kamran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Research%20Analyst&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Rahim%20Kamran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20ML%20%2F%20DL%20%2F%20NLP%20%2F%20GenAI%20%7C%20Research%20Analyst&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+%40+LPU;Research+Analyst+%40+Edureka;Building+ML-Powered+Products;Full+Stack+%2B+Applied+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+%40+LPU;Research+Analyst+%40+Edureka;Machine+Learning+%2B+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,14 +45,16 @@
 name: "Rahim Kamran"
 role: "Research Analyst @ Edureka | MCA Data Science & AI Student @ LPU"
 focus:
-  - Applied Machine Learning & Predictive Systems
+  - Machine Learning & Deep Learning
+  - Natural Language Processing (NLP)
+  - Generative AI & Large Language Models (LLMs)
+  - Prompt Engineering
   - Computer Vision (YOLOv8, real-time detection pipelines)
-  - Full Stack Product Engineering (Spring Boot, React)
   - Data-driven Product & Market Intelligence
-mindset: "Engineering-first — ships working systems, not just notebooks"
+mindset: "Applied-first — models that solve real problems, not just notebooks"
 ```
 
-I'm a Data Science & AI graduate student building end-to-end intelligent systems — from computer-vision pipelines that monitor live traffic, to full-stack booking platforms backed by production-grade REST APIs, to ML-driven dashboards deployed for real users. Alongside my studies, I run a small e-commerce venture and work as a Research Analyst, which keeps my engineering grounded in real business problems rather than toy datasets.
+I'm a Data Science & AI graduate student focused on building applied machine learning and AI systems — from classification models and computer-vision pipelines that monitor live traffic, to ML-driven analytics dashboards deployed for real users, to agentic AI workflows powered by LLMs. Alongside my studies, I run a small e-commerce venture and work as a Research Analyst, which keeps my modeling work grounded in real business problems rather than toy datasets.
 
 **🎯 Open To:**
 
@@ -60,7 +62,7 @@ I'm a Data Science & AI graduate student building end-to-end intelligent systems
 
 ![DS Roles](https://img.shields.io/badge/Data%20Science-Roles-6D28D9?style=flat-square&labelColor=1a1a2e)
 ![ML Engineering](https://img.shields.io/badge/ML%20Engineering-Roles-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-8B5CF6?style=flat-square&labelColor=1a1a2e)
+![AI/GenAI](https://img.shields.io/badge/AI%20%2F%20GenAI-Roles-8B5CF6?style=flat-square&labelColor=1a1a2e)
 ![Freelance](https://img.shields.io/badge/Freelance-Projects-A78BFA?style=flat-square&labelColor=1a1a2e)
 
 </div>
@@ -71,17 +73,28 @@ I'm a Data Science & AI graduate student building end-to-end intelligent systems
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp&theme=dark" />
 
-**Frontend**
+**Machine Learning & Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a1a2e)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e)
 
-**Backend & Databases**
+**NLP, Generative AI & LLMs**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,firebase&theme=dark" />
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&labelColor=1a1a2e&color=6D28D9)
+![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&labelColor=1a1a2e)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square&labelColor=1a1a2e)
+![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square&labelColor=1a1a2e)
 
-**Cloud, DevOps & Tooling**
+**Data & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,firebase&theme=dark" />
+
+**Cloud & Deployment**
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,streamlit&theme=dark" />
 
@@ -94,10 +107,15 @@ I'm a Data Science & AI graduate student building end-to-end intelligent systems
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | **Machine Learning** | ⭐⭐⭐⭐☆ | Classification models — Random Forest, Decision Tree, Logistic Regression; model evaluation & tuning |
+| **Deep Learning** | ⭐⭐⭐☆☆ | Neural network fundamentals and applied deep learning with PyTorch, tied to a phased DS→DL→NLP→GenAI curriculum |
 | **Computer Vision** | ⭐⭐⭐⭐☆ | Real-time object detection & tracking using YOLOv8 and ByteTrack |
+| **Natural Language Processing (NLP)** | ⭐⭐⭐☆☆ | Core NLP concepts and pipelines, building toward Hugging Face-based text applications |
+| **Generative AI** | ⭐⭐⭐☆☆ | GenAI fundamentals applied through LLM-driven, agentic project workflows |
+| **Large Language Models (LLMs)** | ⭐⭐⭐☆☆ | Working with LLM APIs to power reasoning and insight-generation agents |
+| **Prompt Engineering** | ⭐⭐⭐⭐☆ | Designing task-specific prompts for research, analysis, and recommendation agents |
+| **Agentic AI** | ⭐⭐⭐☆☆ | Multi-agent workflows (Research / Analyst / Insight agents) using LangGraph |
 | **Data Analysis** | ⭐⭐⭐⭐☆ | Descriptive statistics, EDA, API-driven data pipelines, dashboarding |
 | **ML Deployment** | ⭐⭐⭐⭐☆ | Streamlit dashboards, Streamlit Community Cloud, ngrok tunneling for live demos |
-| **Agentic AI** | ⭐⭐⭐☆☆ | Multi-agent workflows (Research / Analyst / Insight agents) using LangGraph |
 | **Applied Statistics** | ⭐⭐⭐⭐☆ | Central tendency, dispersion, and statistical reasoning for interview-grade ML fundamentals |
 
 </div>
